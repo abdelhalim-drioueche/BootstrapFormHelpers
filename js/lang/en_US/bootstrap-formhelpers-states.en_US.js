@@ -4702,7 +4702,7 @@ var BFHStatesList = {
     '27' : {'code':'HT','name':'Ha Tay'},
     '28' : {'code':'HH','name':'Ha Tinh'},
     '29' : {'code':'HB','name':'Hoa Binh'},
-    '30' : {'code':'HC','name':'Ho Chin Minh'},
+    '30' : {'code':'HC','name':'Ho Chi Minh'},
     '31' : {'code':'HU','name':'Hau Giang'},
     '32' : {'code':'HY','name':'Hung Yen'}
   },
