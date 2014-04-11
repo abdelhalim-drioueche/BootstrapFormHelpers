@@ -1715,7 +1715,7 @@ var BFHStatesList = {
     '18' : {'code':'YO','name':'Yoro'}
   },
   'HK':{
-    '1' : {'code':'HCW','name':'Central and Western Hong Kong Is'},
+    '1' : {'code':'HCW','name':'Central and Western Hong Kong Island'},
     '2' : {'code':'HEA','name':'Eastern Hong Kong Island'},
     '3' : {'code':'HSO','name':'Southern Hong Kong Island'},
     '4' : {'code':'HWC','name':'Wan Chai Hong Kong Island'},
