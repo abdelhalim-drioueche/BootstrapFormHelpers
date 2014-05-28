@@ -709,7 +709,7 @@ var BFHStatesList = {
     '10' : {'code':'SOU','name':'Southwest (Sud-Ouest)'}
   },
   'CA':{
-    '1' : {'code':'AB','name':'Alberta'},
+    '1' : {'code':'AL','name':'Alberta'},
     '2' : {'code':'BC','name':'British Columbia'},
     '3' : {'code':'MB','name':'Manitoba'},
     '4' : {'code':'NB','name':'New Brunswick'},
